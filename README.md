@@ -33,9 +33,5 @@ You need a web browser to open the HTML file and view the project.
 2. Click the "Generate Password" button to create a new random password.
 3. Copy and Paste to use password however you like.
 
-1. Open the `index.html` file in your preferred web browser.
-2. Click the "Generate Password" button to create a new random password.
-3. Use the customization options to set your desired password length and include/exclude different character types.
 
-## File Structure
 
