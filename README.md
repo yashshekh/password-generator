@@ -1,14 +1,41 @@
-Password Generator
-This is a simple password generator built using HTML, CSS, and JavaScript. By clicking the button, users can generate random passwords to reinforce their security.
+# Password Generator
 
-Features
-Random Password Generation: Generates a random password each time the button is clicked.
-Secure Passwords: Ensures that the generated passwords are strong and secure.
-Technologies Used
-HTML: For the structure of the web page.
-CSS: For styling the web page.
-JavaScript: For the functionality of the password generator.
-Usage
-Open the index.html file in a web browser.
-Click the "Generate Password" button.
-A random password will be displayed.
+A simple web-based password generator built with HTML, CSS, and JavaScript. By clicking a button, you can generate random passwords to reinforce security.
+
+## Features
+
+- Generates random passwords with a single click
+- Includes options for uppercase, lowercase, numbers, and special characters
+- User-friendly interface
+
+## Getting Started
+
+These instructions will help you set up the project on your local machine for development and testing purposes.
+
+### Prerequisites
+
+You need a web browser to open the HTML file and view the project.
+
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yashshekh/password-generator.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd password-generator
+    ```
+
+## Usage
+
+1. Open the `index.html` file in your preferred web browser.
+2. Click the "Generate Password" button to create a new random password.
+3. Copy and Paste to use password however you like.
+
+1. Open the `index.html` file in your preferred web browser.
+2. Click the "Generate Password" button to create a new random password.
+3. Use the customization options to set your desired password length and include/exclude different character types.
+
+## File Structure
+
